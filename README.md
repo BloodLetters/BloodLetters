@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bloodletters" alt="bloodletters" /></a> </p>
 
-- 📝 I regularly write articles on [https://mcstatistics.site](https://mcstatistics.site)
+- 📝 Check my website on [https://mcstatistics.site](https://mcstatistics.site)
 
 - 💬 Ask me about **Python**
 
-- 📄 my experiences [2 Years, Minecraft server developer](2 Years, Minecraft server developer)
+- 📄 my experiences 2 Years, Minecraft server developer, backend python
 
 - ⚡ Fun fact **Im experience with plugins and manage server minecraft, and start learning about frontend web developer. 1 Years experience with flask backend developer**
 
