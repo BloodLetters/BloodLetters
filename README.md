@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bloodletters&label=Profile%20views&color=0e75b6&style=flat" alt="bloodletters" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bloodletters" alt="bloodletters" /></a> </p>
-
 - 📝 Check my bot website on [https://mcstatistics.site](https://mcstatistics.site)
 
 - 💬 Ask me about **Python**
