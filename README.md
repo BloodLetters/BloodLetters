@@ -17,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bloodletters&show_icons=true&locale=en&layout=compact" alt="bloodletters" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bloodletters&show_icons=true&locale=en" alt="bloodletters" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bloodletters&" alt="bloodletters" /></p>
