@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bloodletters&label=Profile%20views&color=0e75b6&style=flat" alt="bloodletters" /> </p>
 
-- 📝 Check my bot website on [https://mcstatistics.site](https://mcstatistics.site)
-
 - 💬 Ask me about **Python**
 
 - 📄 2 Years Minecraft server developer and 1 years python developer
