@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📄 2 Years Minecraft server developer and 1 years python developer
+- 📄 2 Years Minecraft server developer
 
 - ⚡ Fun fact **Im experience with plugins and manage minecraft server**
 
