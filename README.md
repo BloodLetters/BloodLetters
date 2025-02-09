@@ -1,24 +1,32 @@
-<h1 align="center">Hi 👋, I'm Ashesh</h1>
-<h3 align="center">A developer looking for new experiences</h3>
+## Hi there! 👋 Welcome to my GitHub Profile!
+![Profile Views](https://komarev.com/ghpvc/?username=BloodLetters&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/BloodLetters?affiliations=OWNER&style=social)
 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bloodletters&label=Profile%20views&color=0e75b6&style=flat" alt="bloodletters" /> <br>
 
-- 💬 Ask me about **Python**
+I'm **Ashesh**, a passionate developer who loves coding and creating amazing projects! 🚀
 
-- 📄 2 Years Minecraft server developer
+### 🌟 About Me:
+- 🔥 Enthusiastic about **Minecraft development and backend programming**
+- 💡 Always learning **Python Automation, server optimization, and cloud computing**
+- 🎯 Working on **creating Minecraft plugins and expanding my knowledge of Node.js**
+- 💬 Ask me about **Minecraft plugin development, Java programming, and server management**
 
-- ⚡ Fun fact **Im experience with plugins and manage minecraft server**
-<br>
+### 🛠️ Tech Stack:
+![Your Tech Stack Badges](https://skillicons.dev/icons?i=python,java,javascript,lua,sqlite,mysql,docker)
 
-</p>
-  <h2>Status</h2>
-  <img src="https://lanyard-profile-readme.vercel.app/api/961870785486671872?animated=true" alt="Status">
-</p>
+### 📈 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BloodLetters&show_icons=true&theme=tokyonight)
 
-<br>
-<p>
-  <h2>My Repository</h2>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bloodletters&show_icons=true&locale=en&layout=compact" alt="bloodletters" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bloodletters&show_icons=true&locale=en" alt="bloodletters" />
-</p>
+### 🌍 Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BloodLetters&layout=compact&theme=tokyonight)
+
+### 🔗 Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/961870785486671872)](https://discord.com/users/961870785486671872)
+
+### 🌟 Fun Facts About Me:
+- 📖 I love reading manga and anything related to Japan!
+- ☕ Coffee is my fuel for coding marathons!
+- 🌍 My dream is to travel the world while coding in amazing places!
+---
+
+Thanks for stopping by! 😄✨
