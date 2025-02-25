@@ -15,7 +15,7 @@ I'm **Ashesh**, a passionate developer who loves coding and creating amazing pro
 ![Your Tech Stack Badges](https://skillicons.dev/icons?i=python,java,javascript,lua,sqlite,mysql,docker)
 
 ### 📈 GitHub Stats:
-![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=BloodLetters&theme=tokyonight)
+![Commit Streak]([https://github-readme-streak-stats.herokuapp.com/?user=BloodLetters&theme=tokyonight](https://streak-stats.demolab.com/?user=BloodLetters&theme=tokyonight))
 
 ### 🌍 Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BloodLetters&layout=compact&theme=tokyonight)
